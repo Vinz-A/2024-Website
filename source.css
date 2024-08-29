@@ -112,9 +112,11 @@ img {
         min-width: 200px;
     }
     .paragraph {
-        height: 1200px;
+        font-size: 15px;
+        height: 2000px;
         max-width: 200px;
-        padding: 2px 5px;
+        padding: 20px 100px;
+        width: 2000px;
     }
     .subheading{
         max-width: 20%;
