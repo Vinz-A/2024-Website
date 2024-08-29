@@ -132,3 +132,36 @@ img {
         position: relative;
     }
 }
+
+    @media (max-width: 600px) {
+
+        .container {
+            min-width: 320px;
+        }
+    
+        .heading {
+        min-width: 100px;
+        width: 450px;
+        }
+    
+        .paragraph {
+            margin: left;
+            width: 250px;
+            padding: 2px 10px;
+            height: 2000px;
+    
+        }
+    
+        .navbar li {
+            padding: 2px;
+        }
+    
+        .subheading{
+        font-size: 15px;
+        width: 30px;
+        text-align: left;
+        min-height: 1%;    
+        min-width: 50px;
+        }
+    }
+    
