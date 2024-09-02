@@ -148,6 +148,11 @@ img {
     .container {
         min-width: 320px;
     }
+
+    .heading{
+        width: auto;
+    }
+    
     .paragraph_1 {
         height: 800px;
     }

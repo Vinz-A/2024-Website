@@ -148,6 +148,11 @@ img {
     .container {
         min-width: 320px;
     }
+
+    .heading{
+        width: auto;
+    }
+    
     .subheading {
         height: 100px;
         padding: 0px 25px;

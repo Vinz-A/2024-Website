@@ -152,6 +152,10 @@ img {
     .container {
         min-width: 320px;
     }
+
+    .heading{
+        width: auto;
+    }
     
     .navbar a {
         padding: 2px;
